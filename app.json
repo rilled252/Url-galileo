@@ -11,7 +11,7 @@
     "uploader"
   ],
   "success_url": "https://t.me/All_URL_Bot",
-  "website": https://github.com/rilled252",
+  "website": "https://github.com/rilled252",
   "repository": "https://github.com/rilled252/Url-galileo",
   "env": {
     "WEBHOOK": {
